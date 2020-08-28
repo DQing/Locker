@@ -6,7 +6,7 @@
 ## 业务需求
 
 需求描述：储物柜(Locker)可以存包、取包
-[locker](./locker.png)
+![locker](./locker.png)
 
 评分标准：参考Classroom中的评分标准Excel文档
 
